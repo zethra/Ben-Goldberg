@@ -29,12 +29,24 @@
             <hr/>
             <a href="daleks.php">
                 <figure class="figure-effect">
-                    <img src="assets/robot.jpg"/>
+                    <img src="assets/daleksFront.jpg"/>
                     <figcaption>
                         <h2>About <span>Daleks</span></h2>
 
                         <div>
-                            <p>Description about Daleks</p>
+                            <p>Team 3637, my FIRST FRC team</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
+            <a href="robostorm.php">
+                <figure class="figure-effect">
+                    <img src="assets/robostormFront.jpg"/>
+                    <figcaption>
+                        <h2>About <span>Robostorm</span></h2>
+
+                        <div>
+                            <p>My 4H robotics club that I founded</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -45,20 +57,21 @@
         <div class="container">
             <h1>Projects</h1>
             <hr/>
-            <figure class="figure-effect">
-                <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                <figcaption>
-                    <h2>Programming <span>Project</span></h2>
+            <a href="nametags.php">
+                <figure class="figure-effect">
+<!--                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>-->
+                    <img src="assets/nametag-front.png">
+                    <figcaption>
+                        <h2>Name Tag <span>Auto Printing</span></h2>
 
-                    <div>
-                        <p>This is a programming project</p>
+                        <div>
+                            <p>A web app used to order custom</p>
 
-                        <p>Here is the description of the project</p>
-
-                        <p>I learned some cool stuff</p>
-                    </div>
-                </figcaption>
-            </figure>
+                            <p>3D printed name tags</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
         </div>
     </section>
 </div>

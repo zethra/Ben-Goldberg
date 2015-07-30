@@ -8,6 +8,7 @@
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="css/selectize.bootstrap3.css" rel="stylesheet"/>
 <link href="css/figure-effect.css" rel="stylesheet"/>
+<link href="css/tags.css" rel="stylesheet"/>
 <link href="css/main.css" rel="stylesheet"/>
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -22,4 +23,5 @@
 <script src="js/jquery.easing.min.js"></script>
 <script src="js/scrolling-nav.js"></script>
 <script src="js/selectize.js"></script>
+<script src="js/tags.js"></script>
 <script src="js/main.js"></script>
