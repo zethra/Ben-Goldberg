@@ -27,9 +27,21 @@
         <div class="container">
             <h1>About</h1>
             <hr/>
+            <a href="me.php">
+                <figure class="figure-effect">
+                    <img src="assets/me-front.jpg"/>
+                    <figcaption>
+                        <h2>About <span>Me</span></h2>
+
+                        <div>
+                            <p>Who I am and what I do</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
             <a href="daleks.php">
                 <figure class="figure-effect">
-                    <img src="assets/daleksFront.jpg"/>
+                    <img src="assets/daleks-front.jpg"/>
                     <figcaption>
                         <h2>About <span>Daleks</span></h2>
 
@@ -41,7 +53,7 @@
             </a>
             <a href="robostorm.php">
                 <figure class="figure-effect">
-                    <img src="assets/robostormFront.jpg"/>
+                    <img src="assets/robostorm-front.jpg"/>
                     <figcaption>
                         <h2>About <span>Robostorm</span></h2>
 
