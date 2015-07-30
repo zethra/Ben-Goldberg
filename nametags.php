@@ -38,6 +38,12 @@
         </div>
         <hr/>
     </section>
+    <section id="time">
+        <p class="text-left h4">Project worked on: Summer 2015</p>
+
+        <p class="text-left h4">At age: 17</p>
+        <hr>
+    </section>
     <div class="row">
         <div class="col-md-7">
             <section id="description">
@@ -51,9 +57,11 @@
 
                     can order a customized 3-D printed nametag. The user can enter their name, see a preview image of
 
-                    what the nametag will look like, and submit their order. The application back end will then assign the
+                    what the nametag will look like, and submit their order. The application back end will then assign
+                    the
 
-                    nametag order to one of the 3-D printers on the network and will generate a CAD file and send it to the
+                    nametag order to one of the 3-D printers on the network and will generate a CAD file and send it to
+                    the
 
                     printer. It also has a management interface to alter the nametag queue and the printer configuration
 
@@ -69,7 +77,8 @@
                 <ul class="text-left">
                     <li>I expanded my knowledge of the Spring framework and Java Beans</li>
                     <li>I learned how to execute background processes in web apps</li>
-                    <li>I learned that you could execute OpenSCAD files with variables to programmatically generate CAD files
+                    <li>I learned that you could execute OpenSCAD files with variables to programmatically generate CAD
+                        files
                     </li>
                     <li>I learned how to use the Octoprint API</li>
                 </ul>
@@ -81,7 +90,8 @@
                 </h3>
 
                 <p class="text-left">
-                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will custom-3D-
+                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
+                    custom-3D-
 
                     print nametags for fair-goers. An application is needed for placing orders and for automating the
 
@@ -89,13 +99,16 @@
                 </p>
 
                 <p class="text-left">
-                    I worked on this project together with my friend Tim Hollabaugh. In the first iteration of the project,
+                    I worked on this project together with my friend Tim Hollabaugh. In the first iteration of the
+                    project,
 
-                    Tim made a JavaFX desktop application that could take a name as an input, display a preview image, and
+                    Tim made a JavaFX desktop application that could take a name as an input, display a preview image,
+                    and
 
                     then render and slice the nametag. Then I came onto the project and wrote Java code to multi-thread
 
-                    the application and allow it to upload the nametags to a printer. At this point we realized that for the
+                    the application and allow it to upload the nametags to a printer. At this point we realized that for
+                    the
 
                     application to perform the functions we needed, we would need to be able to handle multiple printers
 
