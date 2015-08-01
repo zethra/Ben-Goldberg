@@ -2,6 +2,10 @@
     height: 30px;
 }
 
+.tag {
+    background-color: #B8E8E8;
+}
+
 .github {
     background-color: black;
     color: white;

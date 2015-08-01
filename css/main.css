@@ -1,13 +1,23 @@
 body {
     padding-top: 50px;
+    width: 100%;
+    height: 100%;
+    background-color: #ABD6D6;
 }
-.main {
-    padding: 40px 15px;
+
+table a {
+    display:block;
+    text-decoration: none;
+    color: black;
     text-align: center;
 }
 
-.form-input {
-    text-align: center;
+p {
+    font-family: 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+hr {
+    border-top: 1px solid #579090;
 }
 
 ::-webkit-input-placeholder {
@@ -26,23 +36,58 @@ body {
     text-align: center;
 }
 
+.main {
+    padding: 40px 0;
+    text-align: center;
+}
+
 .sideImage {
     margin-bottom: 30px;
 }
 
-body {
-    width: 100%;
-    height: 100%;
+.page-header-custom {
+    font-size: 4em;
+    margin-bottom: 40px;
 }
 
-html {
-    width: 100%;
-    height: 100%;
+.section-header {
+    font-size: 3.5em;
+    margin-bottom: 40px;
 }
 
-table a {
-    display:block;
-    text-decoration: none;
-    color: black;
-    text-align: center;
+.navbar-inverse {
+    background-color: #0A4040;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #c2c2c2;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #c2c2c2;
+}
+
+.section {
+    padding: 40px;
+}
+
+.section-alt {
+    padding: 40px;
+    background-color: #579090;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#header-text {
+    font-size: 1.15em;
+}
+
+#time {
+    margin-top: 30px;
+}
+
+#time p span {
+    font-weight: bold;
 }

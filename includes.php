@@ -4,6 +4,9 @@
 <title>Ben Goldberg</title>
 <meta name="description" content="Ben Goldberg"/>
 <meta name="author" content="Ben"/>
+
+<link href='fonts/fonts.css' rel='stylesheet' type='text/css'>
+
 <link rel="shortcut icon" href="assets/icon.png">
 <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="css/selectize.bootstrap3.css" rel="stylesheet"/>

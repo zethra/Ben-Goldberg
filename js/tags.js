@@ -9,7 +9,7 @@ $(function() {
 
     );
 
-    $('.java').addClass('btn btn-default')
+    $('.java').addClass('btn btn-default tag')
         .attr('href', 'http://www.oracle.com/java/index.html')
         .attr('target', '_blank')
         .text(' Java')
@@ -20,7 +20,7 @@ $(function() {
 
     );
 
-    $('.spring').addClass('btn btn-default')
+    $('.spring').addClass('btn btn-default tag')
         .attr('href', 'http://spring.io/')
         .attr('target', '_blank')
         .text(' Spring')
@@ -31,7 +31,7 @@ $(function() {
 
     );
 
-    $('.openscad').addClass('btn btn-default')
+    $('.openscad').addClass('btn btn-default tag')
         .attr('href', 'http://www.openscad.org/')
         .attr('target', '_blank')
         .text(' OpenSCAD')
@@ -42,7 +42,7 @@ $(function() {
 
     );
 
-    $('.slic3r').addClass('btn btn-default')
+    $('.slic3r').addClass('btn btn-default tag')
         .attr('href', 'http://slic3r.org/')
         .attr('target', '_blank')
         .text(' Slic3r')
@@ -53,7 +53,7 @@ $(function() {
 
     );
 
-    $('.octoprint').addClass('btn btn-default')
+    $('.octoprint').addClass('btn btn-default tag')
         .attr('href', 'http://octoprint.org/')
         .attr('target', '_blank')
         .text(' OctoPrint')
@@ -64,7 +64,7 @@ $(function() {
 
     );
 
-    $('.tomcat').addClass('btn btn-default')
+    $('.tomcat').addClass('btn btn-default tag')
         .attr('href', 'http://tomcat.apache.org/')
         .attr('target', '_blank')
         .text(' Tomcat')

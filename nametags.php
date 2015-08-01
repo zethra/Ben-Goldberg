@@ -12,18 +12,28 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Ben Goldberg</a>
+            <a class="navbar-brand page-scroll" href="index.php">Ben Goldberg</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Back</a></li>
             </ul>
         </div>
     </div>
 </nav>
 
 <div class="container main">
+    <header>
+        <p class="section-header">
+            Name Tag Auto Printing
+        </p>
+
+        <div class="container text-left">
+            <a class="github" href="http://github.com/Robostorm/Nametag-Auto-Printing/tree/WebApp"></a>
+        </div>
+    </header>
     <section id="tags">
+        <p class="text-left h3">Technologies used</p>
+
         <div class="container text-left">
             <a class="java"></a>
             <a class="spring"></a>
@@ -32,28 +42,22 @@
             <a class="octoprint"></a>
             <a class="tomcat"></a>
         </div>
-        <hr/>
-        <div class="container text-left">
-            <a class="github" href="http://github.com/Robostorm/Nametag-Auto-Printing/tree/WebApp"></a>
-        </div>
-        <hr/>
     </section>
     <section id="time">
-        <p class="text-left h4">Project worked on: Summer 2015</p>
+        <p class="text-left h4">Project worked on <span>Summer 2015</span></p>
 
-        <p class="text-left h4">At age: 17</p>
-        <hr>
+        <p class="text-left h4">At age <span>17</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
             <section id="description">
 
-                <h3 class="h3 text-left">
+                <p class="h3 text-left">
                     Description
-                </h3>
+                </p>
 
                 <p class="text-left">
-                    Summer 2015, Age 17. The Nametag Auto-printing App is a web-based application through which a user
+                    The Nametag Auto-printing App is a web-based application through which a user
 
                     can order a customized 3-D printed nametag. The user can enter their name, see a preview image of
 
@@ -71,23 +75,24 @@
                 <hr/>
             </section>
             <section id="learned">
-                <h3 class="h3 text-left">
+                <p class="h3 text-left">
                     What I Learned
-                </h3>
+                </p>
                 <ul class="text-left">
-                    <li>I expanded my knowledge of the Spring framework and Java Beans</li>
-                    <li>I learned how to execute background processes in web apps</li>
-                    <li>I learned that you could execute OpenSCAD files with variables to programmatically generate CAD
-                        files
+                    <li><p>I expanded my knowledge of the Spring framework and Java Beans</p></li>
+                    <li><p>I learned how to execute background processes in web apps</p></li>
+                    <li>
+                        <p>I learned that you could execute OpenSCAD files with variables to programmatically generate
+                            CAD files</p>
                     </li>
-                    <li>I learned how to use the Octoprint API</li>
+                    <li><p>I learned how to use the Octoprint API</p></li>
                 </ul>
             </section>
             <section id="story">
                 <hr/>
-                <h3 class="h3 text-left">
+                <p class="h3 text-left">
                     The Project's Story
-                </h3>
+                </p>
 
                 <p class="text-left">
                     My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
