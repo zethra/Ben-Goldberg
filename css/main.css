@@ -57,6 +57,7 @@ hr {
 
 .navbar-inverse {
     background-color: #0A4040;
+    border: 0;
 }
 
 .navbar-inverse .navbar-brand {
