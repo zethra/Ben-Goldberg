@@ -78,7 +78,7 @@
                     </p>
                 </div>
                 <div class="col-md-4">
-                    <img src="assets/me.jpg" class="img-circle">
+                    <img src="assets/me.jpg" class="img-circle img-responsive" height="400" width="400">
                 </div>
             </div>
         </div>
