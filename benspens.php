@@ -48,7 +48,7 @@
                     customers and sell.
                 </p>
 
-                <p class="text-left"><a href="benspenssite/index.html">Click here to see the old Ben's Pens site</a></p>
+                <p class="text-left"><a href="benspenssite/index.html" target="_blank">Click here to see the old Ben's Pens site</a></p>
                 <hr/>
             </section>
             <section id="learned">
