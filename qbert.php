@@ -12,11 +12,10 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#page-top">Ben Goldberg</a>
+            <a class="navbar-brand page-scroll" href="index.php">Ben Goldberg</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="index.php">Back</a></li>
             </ul>
         </div>
     </div>
@@ -24,5 +23,6 @@
 
 <div class="container main">
 </div>
+<?php require 'jsIncludes.php'; ?>
 </body>
 </html>

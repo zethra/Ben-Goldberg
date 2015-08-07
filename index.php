@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
 <head>
     <?php require 'includes.php'; ?>
@@ -33,12 +34,9 @@
                 <div id="header-text" class="text-left col-md-8">
                     <p>
                         <strong>Welcome to my web site.</strong> The purpose of this site is for you to learn about me.
-                        I am
-                        using this site as a
-                        forum for describing the key influences that have made me who I am, as well as to highlight the
-                        many
-                        independent and team projects I have completed, illustrating my initiative and technical
-                        abilities.
+                        I am using this site as a forum for describing the key influences that have made me who I am, as
+                        well as to highlight the many independent and team projects I have completed, illustrating my
+                        initiative and technical abilities.
                     </p>
 
                     <p>
@@ -111,39 +109,10 @@
                 </figure>
             </a>
         </div>
-
     </section>
     <section id="projects" class="section">
         <div class="container">
             <p class="section-header">Projects</p>
-            <a href="nametags.php">
-                <figure class="figure-effect">
-                    <!--                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>-->
-                    <img src="assets/nametag-front.png">
-                    <figcaption>
-                        <h2>Name <span>Tag</span> <br/>Auto <span>Printing</span></h2>
-
-                        <div>
-                            <p>A web app used to order custom</p>
-
-                            <p>3D printed name tags</p>
-                        </div>
-                    </figcaption>
-                </figure>
-            </a>
-            <a href="qbert.php">
-                <figure class="figure-effect">
-                    <img src="assets/qbert-front.jpg">
-                    <figcaption>
-                        <h2><span>Qbert</span><br/>
-                            The <span>Robot</span></h2>
-
-                        <div>
-                            <p>A robot with many control methods</p>
-                        </div>
-                    </figcaption>
-                </figure>
-            </a>
             <a href="nametags.php">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
@@ -152,9 +121,26 @@
                         <h2>Scouting <span>App</span></h2>
 
                         <div>
-                            <p>A data collection application</p>
+                            <p>A data collection and analysis</p>
 
-                            <p>for FIRST competitions</p>
+                            <p>application for FIRST competitions</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
+            <a href="nametags.php">
+                <figure class="figure-effect">
+                    <!--                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>-->
+                    <img src="assets/nametag-front.png">
+                    <figcaption>
+                        <h2>Name <span>Tag</span> <br/>Auto <span>Printing</span></h2>
+
+                        <div>
+                            <p>A web app used to order and print</p>
+
+                            <p>custom 3D printed name tags</p>
+
+                            <p>using multiple printers</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -167,7 +153,7 @@
                         <h2>School <span>Navigator</span></h2>
 
                         <div>
-                            <p>A web app that give direction</p>
+                            <p>A web app that give directions</p>
 
                             <p>around my high school</p>
                         </div>
@@ -183,6 +169,19 @@
 
                         <div>
                             <p>A 3D Printer I built</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
+            <a href="qbert.php">
+                <figure class="figure-effect">
+                    <img src="assets/qbert-front.jpg">
+                    <figcaption>
+                        <h2><span>Qbert</span><br/>
+                            The <span>Robot</span></h2>
+
+                        <div>
+                            <p>A robot with many control methods</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -243,6 +242,7 @@
 
                         <div>
                             <p>A light switch that is controlled</p>
+
                             <p>with a web page</p>
                         </div>
                     </figcaption>
@@ -257,14 +257,15 @@
 
                         <div>
                             <p>A robot that sorted Lego bricks</p>
+
                             <p>by color and size</p>
                         </div>
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <a href="robostormSite.php">
                 <figure class="figure-effect">
-                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
+                    <img src="assets/robostormSite-front.png"/>
                     <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Robostorm <span>Club</span>
@@ -272,6 +273,7 @@
 
                         <div>
                             <p>A website for the Robostorm</p>
+
                             <p>Robotics 4-H club</p>
                         </div>
                     </figcaption>
@@ -285,7 +287,8 @@
                         <h2>ROM <span>Bot</span></h2>
 
                         <div>
-                            <p>A robot that took commands for a</p>
+                            <p>A robot that took commands form a</p>
+
                             <p>colored disk to solve a maze</p>
                         </div>
                     </figcaption>
@@ -304,16 +307,17 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <a href="benspens.php">
                 <figure class="figure-effect">
-                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
+                    <img src="assets/bensPens-front.jpg"/>
                     <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Ben's <span>Pens</span></h2>
 
                         <div>
-                            <p>A small business selling I ran</p>
-                            <p>selling hand turned wooden pens</p>
+                            <p>A small business I ran selling</p>
+
+                            <p>hand turned wooden pens I made</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -321,5 +325,6 @@
         </div>
     </section>
 </div>
+<?php require 'jsIncludes.php'; ?>
 </body>
 </html>

@@ -80,23 +80,17 @@
                     </li>
                     <li><p>I learned how to use the Octoprint API</p></li>
                 </ul>
-                <hr/>
             </section>
-            <section id="why">
+            <section id="story">
+                <hr/>
                 <p class="h3 text-left">
-                    Why I Built It
+                    The Project's Story
                 </p>
 
                 <p class="text-left">
                     My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
                     custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
                     automating the printing process.
-                </p>
-            </section>
-            <section id="story">
-                <hr/>
-                <p class="h3 text-left">
-                    The Project's Story
                 </p>
 
                 <p class="text-left">
@@ -112,17 +106,11 @@
             </section>
         </div>
         <div class="col-md-5">
-            <a class="fancybox" href="assets/nametag-pic1.jpg">
-                <img src="assets/nametag-pic1.jpg" class="img-responsive inline-block sideImage"
-                     alt="The Name Tag App home screen"/>
-            </a>
-            <a class="fancybox" href="assets/nametag-pic2.jpg">
-                <img src="assets/nametag-pic2.jpg" class="img-responsive inline-block sideImage"
-                     alt="The printer management page"/>
-            </a>
+            <img src="assets/nametag-pic1.jpg" class="img-responsive inline-block sideImage"/>
+            <img src="assets/nametag-pic2.jpg" class="img-responsive inline-block sideImage"/>
         </div>
     </div>
 </div>
-<?php require 'jsIncludes.php'; ?>
 </body>
+<?php require 'jsIncludes.php'; ?>
 </html>

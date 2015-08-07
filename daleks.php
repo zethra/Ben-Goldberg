@@ -70,5 +70,6 @@
         </div>
     </div>
 </div>
+<?php require 'jsIncludes.php'; ?>
 </body>
 </html>

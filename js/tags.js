@@ -74,4 +74,26 @@ $(function() {
             .addClass('icon ')
 
     );
+
+    $('.html5').addClass('btn btn-default tag')
+        .attr('href', 'http://www.w3.org/')
+        .attr('target', '_blank')
+        .text(' HTML5')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/html5-logo.png')
+            .addClass('icon ')
+
+    );
+
+    $('.javascript').addClass('btn btn-default tag')
+        .attr('href', 'http://developer.mozilla.org/en-US/docs/Web/JavaScript')
+        .attr('target', '_blank')
+        .text(' Javascript')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/javascript-logo.png')
+            .addClass('icon ')
+
+    );
 });

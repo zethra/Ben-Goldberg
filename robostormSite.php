@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
 <head>
     <?php require 'includes.php'; ?>
@@ -24,23 +25,15 @@
 <div class="container main">
     <header>
         <p class="section-header">
-            Name Tag Auto Printing
+            Robostorm Club Web Site
         </p>
-
-        <div class="container text-left">
-            <a class="github" href="http://github.com/Robostorm/Nametag-Auto-Printing/tree/WebApp"></a>
-        </div>
     </header>
     <section id="tags">
         <p class="text-left h3">Technologies used</p>
 
         <div class="container text-left">
-            <a class="java"></a>
-            <a class="spring"></a>
-            <a class="openscad"></a>
-            <a class="slic3r"></a>
-            <a class="octoprint"></a>
-            <a class="tomcat"></a>
+            <a class="html5"></a>
+            <a class="javascript"></a>
         </div>
     </section>
     <section id="time">
@@ -51,7 +44,6 @@
     <div class="row">
         <div class="col-md-7">
             <section id="description">
-
                 <p class="h3 text-left">
                     Description
                 </p>
@@ -64,6 +56,8 @@
                     also has a management interface to alter the nametag queue and the printer configuration among other
                     things.
                 </p>
+
+                <p class="text-left"><a href="robostormsite/index.php" target="_blank">View the website here</a></p>
 
                 <hr/>
             </section>
@@ -80,23 +74,17 @@
                     </li>
                     <li><p>I learned how to use the Octoprint API</p></li>
                 </ul>
-                <hr/>
             </section>
-            <section id="why">
+            <section id="story">
+                <hr/>
                 <p class="h3 text-left">
-                    Why I Built It
+                    The Project's Story
                 </p>
 
                 <p class="text-left">
                     My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
                     custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
                     automating the printing process.
-                </p>
-            </section>
-            <section id="story">
-                <hr/>
-                <p class="h3 text-left">
-                    The Project's Story
                 </p>
 
                 <p class="text-left">
@@ -112,13 +100,8 @@
             </section>
         </div>
         <div class="col-md-5">
-            <a class="fancybox" href="assets/nametag-pic1.jpg">
-                <img src="assets/nametag-pic1.jpg" class="img-responsive inline-block sideImage"
-                     alt="The Name Tag App home screen"/>
-            </a>
-            <a class="fancybox" href="assets/nametag-pic2.jpg">
-                <img src="assets/nametag-pic2.jpg" class="img-responsive inline-block sideImage"
-                     alt="The printer management page"/>
+            <a class="fancybox" href="assets/robostormSite-pic1.png">
+                <img src="assets/robostormSite-pic1.png" class="img-responsive inline-block sideImage"/>
             </a>
         </div>
     </div>

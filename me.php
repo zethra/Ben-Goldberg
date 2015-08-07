@@ -33,19 +33,17 @@
 
             <p>
                 <strong>I would call myself an outgoing, well-spoken nerd.</strong> I intend to study Computer Science,
-                possibly
-                concentrating in cyber security or data analytics. I am applying to schools which I believe will provide
-                a strong computer science curriculum, but which will also provide me exposure to computer engineering,
-                entrepreneurship, and practical applications.
+                possibly concentrating in cyber security or data analytics. I am applying to schools which I believe
+                will provide a strong computer science curriculum, but which will also provide me exposure to computer
+                engineering, entrepreneurship, and practical applications.
             </p>
 
             <p>
                 <strong>I am self-driven and my passion is programming and making things.</strong> I love building
-                software, building
-                electronics, building robots, and building machines. If I'm not working on a project, I'm looking for a
-                new one. I am constantly researching new ways to do things, and looking for new inspiration. Every day I
-                read articles and watch videos about new emerging technologies, current technology, and other things
-                related to my field.
+                software, building electronics, building robots, and building machines. If I'm not working on a project,
+                I'm looking for a new one. I am constantly researching new ways to do things, and looking for new
+                inspiration. Every day I read articles and watch videos about new emerging technologies, current
+                technology, and other things related to my field.
             </p>
 
             <p>
@@ -57,5 +55,6 @@
         </div>
     </section>
 </div>
+<?php require 'jsIncludes.php'; ?>
 </body>
 </html>

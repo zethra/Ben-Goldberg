@@ -24,5 +24,6 @@
 
 <div class="container main">
 </div>
+<?php require 'jsIncludes.php'; ?>
 </body>
 </html>
