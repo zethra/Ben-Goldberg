@@ -1,0 +1,52 @@
+body { margin: 0; padding: 0; }
+#logo{
+	margin: 0 auto;
+	z-index:2;
+	background-image:url(logolinks2.png);
+	height:432;
+	width:900;
+	margin-top:-432;
+}
+#side{
+	z-index:1;
+	height:432;
+	background-image:url(side.png);
+	width:100%;
+}
+#body{
+	z-index:3;
+	width:100%;
+	margin-top:432;
+	margin: 0 auto;
+	height:600;
+}
+#toptext{
+	width:1000;
+	margin:0 auto;
+}
+#pic1{
+	margin:0 auto;
+	background-color:#FFF;
+	margin-bottom:-20;
+}
+#contact{
+	width:100%;
+	background-color:#FFF;
+	overflow:hidden;
+}
+#gift{
+	margin:0 auto;
+	overflow:hidden;
+}
+a{
+	color:#666;
+}
+h1{
+	color:#666;
+	font-family:"MS Serif", "New York", serif;
+}
+
+h2{
+	font-family:"MS Serif", "New York", serif;
+}
+	
