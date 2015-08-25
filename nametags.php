@@ -28,7 +28,7 @@
         </p>
 
         <div class="container text-left">
-            <a class="github" href="http://github.com/Robostorm/Nametag-Auto-Printing/tree/WebApp"></a>
+            <a class="github" href="http://github.com/Robostorm/Nametag-Auto-Printing/"></a>
         </div>
     </header>
     <section id="tags">
@@ -41,6 +41,10 @@
             <a class="slic3r"></a>
             <a class="octoprint"></a>
             <a class="tomcat"></a>
+            <a class="html5"></a>
+            <a class="ajax"></a>
+            <a class="javascript"></a>
+            <a class="xml"></a>
         </div>
     </section>
     <section id="time">

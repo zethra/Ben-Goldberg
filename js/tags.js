@@ -96,4 +96,26 @@ $(function() {
             .addClass('icon ')
 
     );
+
+    $('.ajax').addClass('btn btn-default tag')
+        .attr('href', 'http://en.wikipedia.org/wiki/Ajax_(programming)')
+        .attr('target', '_blank')
+        .text(' Ajax')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/ajax-logo.png')
+            .addClass('icon ')
+
+    );
+
+    $('.xml').addClass('btn btn-default tag')
+        .attr('href', 'http://www.xml.com/')
+        .attr('target', '_blank')
+        .text(' XML')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/xml-logo.png')
+            .addClass('icon ')
+
+    );
 });

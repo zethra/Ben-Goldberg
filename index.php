@@ -145,7 +145,7 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <a href="navigator.php">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
                     <!--                    <img src="assets/nametag-front.png">-->
