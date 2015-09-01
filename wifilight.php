@@ -82,11 +82,11 @@
                     For this project I used Adafruit's HUZZAH microcontroller which is a breakout of the ESP8266
                     chip. I connected the HUZZAH to a relay which it could use to switch the lamp on and off.  I also
                     connected it to a micro USB break out so I can power it with a phone charger.  The I programmed the
-                    microcontroller to act as a server that would serve a web page with two buttons, an ON button and
-                    an OFF button.  Clicking the ON button causes the browser would navigate to the /on page of the
-                    web site, which would cause to HUZZAH microcontroller to turn the relay and there for the lamp on
-                    .  Clicking the OFF button causes the browser would navigate to the /off page of the web site,
-                    which would cause to HUZZAH microcontroller to turn the relay and there for the lamp off.
+                    microcontroller in C++ to act as a server that would serve a web page with two buttons, an ON button
+                    and an OFF button.  Clicking the ON button causes the browser to navigate to the /on page of the
+                    web site, which would cause the HUZZAH microcontroller to turn the relay and therefore the lamp on
+                    .  Clicking the OFF button causes the browser to navigate to the /off page of the web site,
+                    which would cause the HUZZAH microcontroller to turn the relay and therefore the lamp off.
                 </p>
                 <hr/>
             </section>
@@ -105,11 +105,11 @@
                 </p>
 
                 <p class="text-left">
-                    For a few months pier I had been looking into various ways to network a microcontroller.  When
+                    For a few months prior I had been looking into various ways to network a microcontroller.  When
                     Adafruit released the HUZZAH, a WiFi capable microcontroller for $10, I knew I had to get one.
-                    It arrived on a day my friend Feo was over, so he and I work on the project together.
+                    It arrived on a day my friend Feo was over, so he and I worked on the project together.
                     I had the rest of the hardware laying around and I was able to write the code in a about 30
-                    minutes.  The documentation on Adafruit's site was pretty good so writing so it didn't take too
+                    minutes.  The documentation on Adafruit's site was pretty good so writing it didn't take too
                     long.
                 </p>
             </section>
