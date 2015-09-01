@@ -8,7 +8,14 @@ $(function() {
             .addClass('icon ')
 
     );
+    $('.githubCustom').addClass('btn btn-default')
+        .attr('target', '_blank')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/github-logo.png')
+            .addClass('icon ')
 
+    );
     $('.java').addClass('btn btn-default tag')
         .attr('href', 'http://www.oracle.com/java/index.html')
         .attr('target', '_blank')
@@ -19,7 +26,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.spring').addClass('btn btn-default tag')
         .attr('href', 'http://spring.io/')
         .attr('target', '_blank')
@@ -30,7 +36,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.openscad').addClass('btn btn-default tag')
         .attr('href', 'http://www.openscad.org/')
         .attr('target', '_blank')
@@ -41,7 +46,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.slic3r').addClass('btn btn-default tag')
         .attr('href', 'http://slic3r.org/')
         .attr('target', '_blank')
@@ -52,7 +56,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.octoprint').addClass('btn btn-default tag')
         .attr('href', 'http://octoprint.org/')
         .attr('target', '_blank')
@@ -63,7 +66,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.tomcat').addClass('btn btn-default tag')
         .attr('href', 'http://tomcat.apache.org/')
         .attr('target', '_blank')
@@ -74,7 +76,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.html5').addClass('btn btn-default tag')
         .attr('href', 'http://www.w3.org/')
         .attr('target', '_blank')
@@ -85,7 +86,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.javascript').addClass('btn btn-default tag')
         .attr('href', 'http://developer.mozilla.org/en-US/docs/Web/JavaScript')
         .attr('target', '_blank')
@@ -96,7 +96,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.ajax').addClass('btn btn-default tag')
         .attr('href', 'http://en.wikipedia.org/wiki/Ajax_(programming)')
         .attr('target', '_blank')
@@ -107,7 +106,6 @@ $(function() {
             .addClass('icon ')
 
     );
-
     $('.xml').addClass('btn btn-default tag')
         .attr('href', 'http://www.xml.com/')
         .attr('target', '_blank')
@@ -115,6 +113,45 @@ $(function() {
         .prepend(
         $('<img>')
             .attr('src', 'assets/xml-logo.png')
+            .addClass('icon ')
+
+    );
+    $('.webiopi').addClass('btn btn-default tag')
+        .attr('href', 'http://webiopi.trouch.com/')
+        .attr('target', '_blank')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/webiopi-logo.png')
+            .addClass('icon ')
+
+    );
+    $('.python').addClass('btn btn-default tag')
+        .attr('href', 'http://www.python.org/')
+        .attr('target', '_blank')
+        .text(' Python')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/python-logo.png')
+            .addClass('icon ')
+
+    );
+    $('.mysql').addClass('btn btn-default tag')
+        .attr('href', 'http://www.mysql.com/')
+        .attr('target', '_blank')
+        .text(' MySQL')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/mysql-logo.png')
+            .addClass('icon ')
+
+    );
+    $('.arduino').addClass('btn btn-default tag')
+        .attr('href', 'http://www.arduino.cc/')
+        .attr('target', '_blank')
+        .text(' Arduino')
+        .prepend(
+        $('<img>')
+            .attr('src', 'assets/arduino-logo.png')
             .addClass('icon ')
 
     );

@@ -17,7 +17,7 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a class="page-scroll" href="#about">About</a></li>
+                <li><a class="page-scroll" href="#about">Major Influences</a></li>
                 <li><a class="page-scroll" href="#projects">Projects</a></li>
             </ul>
         </div>
@@ -83,12 +83,12 @@
     </header>
     <section id="about" class="section-alt">
         <div class="container">
-            <p class="section-header">About</p>
+            <p class="section-header">Major Influences</p>
             <a href="daleks.php">
                 <figure class="figure-effect">
                     <img src="assets/daleks-front.jpg"/>
                     <figcaption>
-                        <h2>About <span>Daleks</span></h2>
+                        <h2><span>Daleks</span></h2>
 
                         <div>
                             <p>Team 3637, my FIRST FRC team</p>
@@ -100,10 +100,24 @@
                 <figure class="figure-effect">
                     <img src="assets/robostorm-front.jpg"/>
                     <figcaption>
-                        <h2>About <span>Robostorm</span></h2>
+                        <h2><span>Robostorm</span></h2>
 
                         <div>
                             <p>My 4H robotics club that I founded</p>
+                        </div>
+                    </figcaption>
+                </figure>
+            </a>
+            <a href="benspens.php">
+                <figure class="figure-effect">
+                    <img src="assets/bensPens-front.jpg"/>
+                    <figcaption>
+                        <h2>Ben's <span>Pens</span></h2>
+
+                        <div>
+                            <p>A small business I ran selling</p>
+
+                            <p>hand turned wooden pens I made</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -113,10 +127,10 @@
     <section id="projects" class="section">
         <div class="container">
             <p class="section-header">Projects</p>
-            <a href="nametags.php">
+            <a href="scouting.php">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
+
                     <figcaption>
                         <h2>Scouting <span>App</span></h2>
 
@@ -131,7 +145,7 @@
             <a href="nametags.php">
                 <figure class="figure-effect">
                     <!--                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>-->
-                    <img src="assets/nametag-front.png">
+                    <img src="assets/nametag-front.jpg">
                     <figcaption>
                         <h2>Name <span>Tag</span> <br/>Auto <span>Printing</span></h2>
 
@@ -148,7 +162,6 @@
             <a href="navigator.php">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>School <span>Navigator</span></h2>
 
@@ -160,10 +173,9 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>3D <span>Printer</span></h2>
 
@@ -172,12 +184,12 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
+            </a>-->
             <a href="qbert.php">
                 <figure class="figure-effect">
                     <img src="assets/qbert-front.jpg">
                     <figcaption>
-                        <h2><span>Qbert</span><br/>
+                        <h2><span>Q-Bert</span><br/>
                             The <span>Robot</span></h2>
 
                         <div>
@@ -186,10 +198,9 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+<!--            <a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2><span>AquaBot</span></h2>
 
@@ -200,15 +211,13 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
-            <a href="nametags.php">
+            </a>-->
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2><span>Server</span><br/>
                             Manager <span>App</span></h2>
-
                         <div>
                             <p>An android app that manages</p>
 
@@ -216,14 +225,12 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
-            <a href="nametags.php">
+            </a>-->
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Arcade <span>Machine</span></h2>
-
                         <div>
                             <p>A custom build arcade machine</p>
 
@@ -231,11 +238,10 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
-            <a href="nametags.php">
+            </a>-->
+            <a href="wifilight.php">
                 <figure class="figure-effect">
-                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
+                    <img src="assets/wifilight-front.jpg"/>
                     <figcaption>
                         <h2><span>Wi-Fi</span><br/>
                             Light <span>Switch</span></h2>
@@ -248,13 +254,11 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Brick <span>Sorter</span></h2>
-
                         <div>
                             <p>A robot that sorted Lego bricks</p>
 
@@ -262,11 +266,10 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
+            </a>-->
             <a href="robostormSite.php">
                 <figure class="figure-effect">
                     <img src="assets/robostormSite-front.png"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Robostorm <span>Club</span>
                             <br/>Web <span>Site</span></h2>
@@ -279,10 +282,9 @@
                     </figcaption>
                 </figure>
             </a>
-            <a href="nametags.php">
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>ROM <span>Bot</span></h2>
 
@@ -293,11 +295,10 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
-            <a href="nametags.php">
+            </a>-->
+            <!--<a href="">
                 <figure class="figure-effect">
                     <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
                     <figcaption>
                         <h2>Minecraft <span>Server</span></h2>
 
@@ -306,22 +307,7 @@
                         </div>
                     </figcaption>
                 </figure>
-            </a>
-            <a href="benspens.php">
-                <figure class="figure-effect">
-                    <img src="assets/bensPens-front.jpg"/>
-                    <!--                    <img src="assets/nametag-front.png">-->
-                    <figcaption>
-                        <h2>Ben's <span>Pens</span></h2>
-
-                        <div>
-                            <p>A small business I ran selling</p>
-
-                            <p>hand turned wooden pens I made</p>
-                        </div>
-                    </figcaption>
-                </figure>
-            </a>
+            </a>-->
         </div>
     </section>
 </div>

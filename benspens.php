@@ -36,10 +36,6 @@
         <div class="col-md-7">
             <section id="description">
 
-                <p class="h3 text-left">
-                    Description
-                </p>
-
                 <p class="text-left">
                     My father taught me how to turn pens out of wood on a lathe. I turned this into a business and sold
                     the pens I made at the Stangl Factory Market in Flemington. I learned about running a business,
@@ -50,20 +46,6 @@
 
                 <p class="text-left"><a href="benspenssite/index.html" target="_blank">Click here to see the old Ben's Pens site</a></p>
                 <hr/>
-            </section>
-            <section id="learned">
-                <p class="h3 text-left">
-                    What I Learned
-                </p>
-                <ul class="text-left">
-                    <li><p></p></li>
-                </ul>
-            </section>
-            <section id="story">
-                <hr/>
-                <p class="h3 text-left">
-                    The Project's Story
-                </p>
             </section>
         </div>
         <div class="col-md-5">

@@ -61,13 +61,68 @@
                 </p>
 
                 <p class="text-left">
-                    The Nametag Auto-printing App is a web-based application through which a user can order a customized
-                    3-D printed nametag. The user can enter their name, see a preview image of what the nametag will
-                    look like, and submit their order. The application back end will then assign the nametag order to
-                    one of the 3-D printers on the network and will generate a CAD file and send it to the printer. It
-                    also has a management interface to alter the nametag queue and the printer configuration among other
-                    things.
+                    The Name Tag Auto Printing app is a web-based application through which a user can order a
+                    customized 3-D printed name tag. The user can enter their name, see a preview image of what the name
+                    tag will look like, and submit their order. The application back end will then send the name tag
+                    order to one of the 3-D printers on the network. The app also has a management interface to alter
+                    the name tag queue and the printer configuration among other things.
                 </p>
+
+                <hr/>
+            </section>
+            <section id="why">
+                <p class="h3 text-left">
+                    Why I Built It
+                </p>
+
+                <p class="text-left">
+                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
+                    custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
+                    automating the printing process.
+                </p>
+                <hr/>
+            </section>
+            <section id="tech">
+                <p class="h3 text-left">
+                    Technical Details
+                </p>
+
+                <p class="h4 text-left">
+                    Name tag order entry steps
+                </p>
+
+                <ul class="text-left">
+                    <li><p>On the Ordering Page enter the name to be printed on the name tag</p></li>
+                    <li><p>A preview image is created and displayed</p></li>
+                    <li><p>Approve/submit the name tag order</p></li>
+                    <li><p>The order is added to the Order Queue</p></li>
+                </ul>
+
+                <p class="h4 text-left">
+                    Name tag order processing steps
+                </p>
+
+                <ul class="text-left">
+                    <li><p>The Print Server checks every several seconds to see if there is a printer available (Active
+                            and Not printing)</p></li>
+                    <li><p>The Print Server waits until there is a printer is available and there is a waiting name tag
+                            order</p></li>
+                    <li><p>Assign the Order to the printer</p></li>
+                    <li><p>Generate STL file</p></li>
+                    <li><p>Slice the STL file, making a Gcode file</p></li>
+                    <li><p>Upload Gcode file to the printer and set Printer state to "Printing"</p></li>
+                </ul>
+
+                <p class="h4 text-left">
+                    When printer is finnished
+                </p>
+
+                <ul class="text-left">
+                    <li><p>Print Server receives message from printer when printing is done and the operator pushes the
+                            Button</p></li>
+                    <li><p>Order is removed from the Queue</p></li>
+                    <li><p>Printer state is set to "Not printing"</p></li>
+                </ul>
 
                 <hr/>
             </section>
@@ -86,19 +141,7 @@
                 </ul>
                 <hr/>
             </section>
-            <section id="why">
-                <p class="h3 text-left">
-                    Why I Built It
-                </p>
-
-                <p class="text-left">
-                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
-                    custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
-                    automating the printing process.
-                </p>
-            </section>
             <section id="story">
-                <hr/>
                 <p class="h3 text-left">
                     The Project's Story
                 </p>
@@ -106,10 +149,10 @@
                 <p class="text-left">
                     I worked on this project together with my friend Tim Hollabaugh. In the first iteration of the
                     project, Tim made a JavaFX desktop application that could take a name as an input, display a preview
-                    image, and then render and slice the nametag. Then I came onto the project and wrote Java code to
-                    multi-thread the application and allow it to upload the nametags to a printer. At this point we
+                    image, and then render and slice the name tag. Then I came onto the project and wrote Java code to
+                    multi-thread the application and allow it to upload the name tags to a printer. At this point we
                     realized that for the application to perform the functions we needed, we would need to be able to
-                    handle multiple printers and be able to queue nametags. Part of the way through developing these
+                    handle multiple printers and be able to queue name tags. Part of the way through developing these
                     functions, I realized that a web app would better suit our needs than a desktop application. So I
                     re-implemented the code as a web app based on the Spring framework.
                 </p>
@@ -120,9 +163,13 @@
                 <img src="assets/nametag-pic1.jpg" class="img-responsive inline-block sideImage"
                      alt="The Name Tag App home screen"/>
             </a>
-            <a class="fancybox" href="assets/nametag-pic2.jpg">
-                <img src="assets/nametag-pic2.jpg" class="img-responsive inline-block sideImage"
+            <a class="fancybox" href="assets/nametag-pic2.png">
+                <img src="assets/nametag-pic2.png" class="img-responsive inline-block sideImage"
                      alt="The printer management page"/>
+            </a>
+            <a class="fancybox" href="assets/nametag-pic3.jpg">
+                <img src="assets/nametag-pic3.jpg" class="img-responsive inline-block sideImage"
+                     alt="Name Tag process flow chart"/>
             </a>
         </div>
     </div>
