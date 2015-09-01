@@ -1,4 +1,3 @@
-<!--Last Updated 10/27/14 by Kathy -->
 <html>
 <head>
 <title>Robostorm Events</title>

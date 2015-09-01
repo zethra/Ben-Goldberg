@@ -1,4 +1,3 @@
-<!--Last Updated 3/16/13 by Ben -->
 <html>
 <head>
 <title>Robostorm Club Info</title>

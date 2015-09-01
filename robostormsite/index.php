@@ -1,4 +1,3 @@
-<!--Last Updated 11/5/14 by Ben -->
 <html>
 <head>
 

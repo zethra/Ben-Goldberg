@@ -109,8 +109,7 @@
                     Adafruit released the HUZZAH, a WiFi capable microcontroller for $10, I knew I had to get one.
                     It arrived on a day my friend Feo was over, so he and I worked on the project together.
                     I had the rest of the hardware laying around and I was able to write the code in a about 30
-                    minutes.  The documentation on Adafruit's site was pretty good so writing it didn't take too
-                    long.
+                    minutes.  The documentation on Adafruit's site was pretty good so writing it didn't take too long.
                 </p>
             </section>
         </div>
