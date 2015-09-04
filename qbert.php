@@ -92,13 +92,21 @@
                 </p>
 
                 <p class="text-left">
-                    There is Python script interprets messages from a different Raspberry Pi that is running Minecraft.
-                    It them moved based on the messages it receives.
+                    Mounted on Q-Bert is a Raspberry Pi computer that communicates with the controlling devices over
+                    Wi-Fi.  On the Pi, two programs are running.  They both translate incoming messages into on and
+                    off motor control requests, that result in the user being able to drive Q-Bert.
+                    The Motor Controller accepts motor control requests from the two programs on the Pi.
                 </p>
 
                 <p class="text-left">
-                    The WebIOPi program is a web server that allows the motors to be controlled via javascript. A client
-                    that has the web page open can press html buttons on the page that cause the robot to move.
+                    There is a Python script that interprets messages from a different Raspberry Pi that is running
+                    Minecraft.  It then controls the motors based on the messages it receives.
+                </p>
+
+                <p class="text-left">
+                    There is also the WebIOPi program is a web server that allows the motors to be controlled via
+                    javascript. A client that has the web page open can press html buttons on the page that cause the
+                    robot to move.
                 </p>
 
                 <p class="h4 text-left">
@@ -106,10 +114,11 @@
                 </p>
 
                 <p class="text-left">
-                    On a separate Raspberry Pi computer, a small version of the Minecraft game is installed. Another
-                    Python Script is also installed on this Pi that uses an available Minecraft API to detect the
-                    movement of the player in the game. This Python Script communicates with the Python Script on Q-Bert
-                    through a Sockets connection to tell buert how to move.
+                    On a separate Raspberry Pi computer (right side of third picture, connected to monitor), a small
+                    version of the Minecraft game is installed. Another Python Script is also installed on this Pi
+                    that uses an available Minecraft API to detect the movement of the player in the game. This
+                    Python Script communicates with the Python Script on Q-Bert through a Sockets connection to tell
+                    Q-Bert how to move.
                 </p>
 
                 <p class="h4 text-left">
@@ -119,7 +128,7 @@
                 <p class="text-left">
                     Any device with a web browser on the same network as Q-Bert can control it by loading the web page
                     Q-Bert is hosting. When the controls on the web page are pressed, messages are sent back to the
-                    WebIOPi program on Q-Bert that instruct it how to move.
+                    WebIOPi program on Q-Bert that instructs it how to move.
                 </p>
                 <hr/>
             </section>
@@ -128,10 +137,11 @@
                     What I Learned
                 </p>
                 <ul class="text-left">
-                    <li><p>XML data format</p></li>
-                    <li><p>Dijkstra's shortest path algorithm</p></li>
-                    <li><p>Better understanding of Java servlets</p></li>
-                    <li><p>Multithreading</p></li>
+                    <li><p>Socket communication</p></li>
+                    <li><p>Controlling motors on a Raspberry Pi</p></li>
+                    <li><p>Using WebIOPi</p></li>
+                    <li><p>Minecraft API</p></li>
+                    <li><p>Web apps don't make good real time remotes</p></li>
                 </ul>
                 <hr/>
             </section>
@@ -150,18 +160,18 @@
                 <img src="assets/qbert-pic1.jpg" class="img-responsive inline-block sideImage"
                      alt="Q-Bert the robot"/>
             </a>
-            <a class="fancybox" href="assets/qbert-pic2.png">
-                <img src="assets/qbert-pic2.png" class="img-responsive inline-block sideImage"
-                     alt="The Python script get data from Minecraft via its API"/>
+            <a class="fancybox" href="assets/qbert-pic4.png">
+                <img src="assets/qbert-pic4.png" class="img-responsive inline-block sideImage"
+                     alt="Both a Python script that communicates with the Pi running Minecraft
+                     and the WebIOPi program the runs the web control control the motors to make Q-bert move"/>
             </a>
             <a class="fancybox" href="assets/qbert-pic3.jpg">
                 <img src="assets/qbert-pic3.jpg" class="img-responsive inline-block sideImage"
                      alt="Q-Bert and the Raspberry Pi the controls it running Minecraft"/>
             </a>
-            <a class="fancybox" href="assets/qbert-pic4.png">
-                <img src="assets/qbert-pic4.png" class="img-responsive inline-block sideImage"
-                     alt="Both a Python script that communicates with the Pi running Minecraft
-                     and the WebIOPi program the runs the web control control the motors to make Q-bert move"/>
+            <a class="fancybox" href="assets/qbert-pic2.png">
+                <img src="assets/qbert-pic2.png" class="img-responsive inline-block sideImage"
+                     alt="The Python script get data from Minecraft via its API"/>
             </a>
             <a class="fancybox" href="assets/qbert-pic5.jpg">
                 <img src="assets/qbert-pic5.jpg" class="img-responsive inline-block sideImage"
