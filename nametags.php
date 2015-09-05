@@ -76,8 +76,8 @@
                 </p>
 
                 <p class="text-left">
-                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
-                    custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
+                    My 4-H Robotics Club exhibit this summer included a set of 3-D printers, with which we used to
+                    custom-3D-print name tags for fair-goers. An application was needed for placing orders and for
                     automating the printing process.
                 </p>
                 <hr/>
@@ -114,7 +114,7 @@
                 </ul>
 
                 <p class="h4 text-left">
-                    When printer is finnished
+                    When printer is finished
                 </p>
 
                 <ul class="text-left">

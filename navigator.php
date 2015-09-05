@@ -115,7 +115,7 @@
                     What I Learned
                 </p>
                 <ul class="text-left">
-                    <li><p>XML data format</p></li>
+                    <li><p>XML data format / XML parsing</p></li>
                     <li><p>Dijkstra's shortest path algorithm</p></li>
                     <li><p>Better understanding of Java servlets</p></li>
                     <li><p>Multithreading</p></li>
