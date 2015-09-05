@@ -118,7 +118,7 @@
                 </p>
 
                 <ul class="text-left">
-                    <li><p>Print Server receives message from printer when printing is done and the operator pushes the
+                    <li><p>Web Server receives message from printer when printing is done and the operator pushes the
                             Button</p></li>
                     <li><p>Order is removed from the Queue</p></li>
                     <li><p>Printer state is set to "Not printing"</p></li>
