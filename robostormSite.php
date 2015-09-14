@@ -37,9 +37,9 @@
         </div>
     </section>
     <section id="time">
-        <p class="text-left h4">Project worked on <span>Summer 2015</span></p>
+        <p class="text-left h4">Project worked on <span>Spring 2013</span></p>
 
-        <p class="text-left h4">At age <span>17</span></p>
+        <p class="text-left h4">At age <span>15</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
@@ -49,12 +49,8 @@
                 </p>
 
                 <p class="text-left">
-                    The Nametag Auto-printing App is a web-based application through which a user can order a customized
-                    3-D printed nametag. The user can enter their name, see a preview image of what the nametag will
-                    look like, and submit their order. The application back end will then assign the nametag order to
-                    one of the 3-D printers on the network and will generate a CAD file and send it to the printer. It
-                    also has a management interface to alter the nametag queue and the printer configuration among other
-                    things.
+                    This is a web site  I built for the 4H club I founded Robostorm (<a href="robostorm.php">Read
+                        more about Robostorm here</a>).  This is the first real web site I made.
                 </p>
 
                 <p class="text-left"><a href="robostormsite/index.php" target="_blank">View the website here</a></p>
@@ -66,13 +62,8 @@
                     What I Learned
                 </p>
                 <ul class="text-left">
-                    <li><p>I expanded my knowledge of the Spring framework and Java Beans</p></li>
-                    <li><p>I learned how to execute background processes in web apps</p></li>
-                    <li>
-                        <p>I learned that you could execute OpenSCAD files with variables to programmatically generate
-                            CAD files</p>
-                    </li>
-                    <li><p>I learned how to use the Octoprint API</p></li>
+                    <li><p>I learned a lot about HTML and Web development</p></li>
+                    <li><p>I learned how to some basic Apache config</p></li>
                 </ul>
             </section>
             <section id="story">
@@ -82,20 +73,17 @@
                 </p>
 
                 <p class="text-left">
-                    My 4-H Robotics Club exhibit this summer includes a set of 3-D printers, with which we will
-                    custom-3D-print name tags for fair-goers. An application is needed for placing orders and for
-                    automating the printing process.
+                    This website was my club's third site.  The first one was a made through a Comcast's personal
+                    website service, and the second was made through webs.com.  During the second semester of the
+                    freshman year of high school I was taking an HTML class and decided to make a new, better,
+                    website form scratch for our club as the final project for the class.
                 </p>
 
                 <p class="text-left">
-                    I worked on this project together with my friend Tim Hollabaugh. In the first iteration of the
-                    project, Tim made a JavaFX desktop application that could take a name as an input, display a preview
-                    image, and then render and slice the nametag. Then I came onto the project and wrote Java code to
-                    multi-thread the application and allow it to upload the nametags to a printer. At this point we
-                    realized that for the application to perform the functions we needed, we would need to be able to
-                    handle multiple printers and be able to queue nametags. Part of the way through developing these
-                    functions, I realized that a web app would better suit our needs than a desktop application. So I
-                    re-implemented the code as a web app based on the Spring framework.
+                    This was the first real website I ever made so I was difficult to put together.  Getting the
+                    layout to look right was quite tricky.  I also had to find a way to restrict access to certain
+                    parts of the site which was hard to find the right way to go about.  Eventually I settled on
+                    using Apache's built in security to put a directory of content behind a password.
                 </p>
             </section>
         </div>

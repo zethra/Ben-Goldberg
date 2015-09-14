@@ -53,8 +53,8 @@
                     <li><p>I designed the operation and the IT configuration used during the tournaments.</p></li>
                 </ul>
                 <p>
-                    This is my most substantial and proud accomplishment. In the "Projects" section of this site, please
-                    read about it.
+                    This is a very substantial accomplishment I take great pride in. Please read about it <a
+                        href="scouting.php">here</a>.
                 </p>
 
                 <p>

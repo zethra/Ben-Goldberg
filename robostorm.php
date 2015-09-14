@@ -30,7 +30,8 @@
                 </p>
 
                 <p>
-                    As a seventh grader, after extreme disappointment over my school's Lego robotics club folding, I
+                    As a seventh grader, after extreme disappointment over my school's Lego Mindstorms robotics club
+                    folding, I
                     decided to take matters into my own hands and start my own club. I learned about 4-H, but that
                     Hunterdon County's 4-H did not have a robotics club. So I started one, in the spring of 2011. We
                     started with six members and grew to twenty over two years. I was so happy to meet other kids with
@@ -53,8 +54,8 @@
                     on the Lego NXT platform, we were being introduced to the Arduino microcontroller, the Raspberry Pi
                     computer, mechanical design, programming, and wiring and soldering. These influences put me on a new
                     trajectory as a sophomore. The substance, sophistication, and complexity of the projects I took on
-                    were at a new level. In the "Projects" section of this site, please read about my independent
-                    projects as well as the club group projects I worked on.
+                    were at a new level. In the "Projects" section of this site, please read about some of the
+                    projects I have worked on win the club.
                 </p>
 
                 <p>
