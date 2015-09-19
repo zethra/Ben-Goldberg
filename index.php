@@ -73,7 +73,7 @@
             <p class="section-header">Major Influences</p>
             <a href="daleks.php">
                 <figure class="figure-effect">
-                    <img src="assets/daleks-front.jpg"/>
+                    <img src="assets/daleks-front.jpg" class="img-front img-responsive"/>
                     <figcaption>
                         <h2><span>Daleks</span></h2>
 

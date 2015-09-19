@@ -3,7 +3,6 @@ figure {
     float: left;
     overflow: hidden;
     margin: 10px 1%;
-    min-width: 320px;
     max-width: 480px;
     max-height: 360px;
     width: 48%;
@@ -11,6 +10,18 @@ figure {
     background: #3085a3;
     text-align: center;
     cursor: pointer;
+}
+
+@media (min-width: 769px) {
+    figure {
+        width: 48%;
+    }
+}
+
+@media (max-width: 768px) {
+    figure {
+        width: 100%;
+    }
 }
 
 figure img {

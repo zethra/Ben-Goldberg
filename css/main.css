@@ -68,13 +68,17 @@ hr {
     color: #c2c2c2;
 }
 
-.section {
-    padding: 40px;
+.section-alt {
+    background-color: #579090;
 }
 
-.section-alt {
-    padding: 40px;
-    background-color: #579090;
+@media (min-width: 768px) {
+    .section-alt {
+        padding: 40px;
+    }
+    .section {
+        padding: 40px;
+    }
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
@@ -83,6 +87,10 @@ hr {
 
 .img-center {
     margin: 0 auto;
+}
+
+.img-front {
+    max-width: 100%;
 }
 
 .fancybox{}
