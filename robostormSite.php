@@ -63,7 +63,7 @@
                 </p>
                 <ul class="text-left">
                     <li><p>I learned a lot about HTML and Web development</p></li>
-                    <li><p>I learned how to some basic Apache config</p></li>
+                    <li><p>I learned how some basic Apache configuration</p></li>
                 </ul>
             </section>
             <section id="story">

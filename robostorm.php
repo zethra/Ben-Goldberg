@@ -30,13 +30,12 @@
                 </p>
 
                 <p>
-                    As a seventh grader, after extreme disappointment over my school's Lego Mindstorms robotics club
-                    folding, I
-                    decided to take matters into my own hands and start my own club. I learned about 4-H, but that
-                    Hunterdon County's 4-H did not have a robotics club. So I started one, in the spring of 2011. We
-                    started with six members and grew to twenty over two years. I was so happy to meet other kids with
-                    similar interests! We were soon turning people away. We have had thirty-one different members over
-                    our 4-1/2 years.
+                    As a seventh grader, after extreme disappointment over my school's Lego Mindstorms NXT robotics club
+                    folding, I decided to take matters into my own hands and start my own club. I learned about 4-H,
+                    but that Hunterdon County's 4-H did not have a robotics club. So I started one, in the spring of
+                    2011. We started with six members and grew to twenty over two years. I was so happy to meet other
+                    kids with similar interests! We were soon turning people away. We have had thirty-one different
+                    members over our 4-1/2 years.
                 </p>
 
                 <p>

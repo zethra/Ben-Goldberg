@@ -37,15 +37,19 @@
             <section id="description">
 
                 <p class="text-left">
-                    My father taught me how to turn pens out of wood on a lathe. I turned this into a business and sold
-                    the pens I made at the Stangl Factory Market in Flemington. I learned about running a business,
-                    keeping books, and marketing. I created a web site to advertise my business. I kept financial
-                    records in a spreadsheet, kept inventory records, made business cards, and I learned how to talk to
-                    customers and sell.
+                    My father taught me how to turn pens out of wood on a lathe. When a new market opened up in my
+                    town where craftsmen could sell what they made I saw an opportunity and took it.  I turned my pen
+                    making into a business and sold the pens I made at the Stangl Factory Market in Flemington. I
+                    learned about turning pens and wood working in general, running a business, keeping books, and
+                    marketing. I created a web site to advertise my business. I kept financial records in a
+                    spreadsheet, kept inventory records, made business cards, and I learned how to talk to customers
+                    and sell.
                 </p>
 
                 <p class="text-left"><a href="benspenssite/index.html" target="_blank">Click here to see the old Ben's Pens site</a></p>
-                <hr/>
+                <p class="text-left"><a target="_blank"
+                        href="http://www.nj.com/hunterdon-county-democrat/index.ssf/2013/08/opening_day_of_stangl_factory.html">
+                        I'm mentioned here in this article from NJ.com</a></p>
             </section>
         </div>
         <div class="col-md-5">
