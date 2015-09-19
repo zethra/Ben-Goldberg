@@ -81,6 +81,10 @@ hr {
     font-family: 'Montserrat',"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.img-center {
+    margin: 0 auto;
+}
+
 .fancybox{}
 
 #header-text {
@@ -93,4 +97,8 @@ hr {
 
 #time p span {
     font-weight: bold;
+}
+
+#mainHeader {
+    margin-bottom: 10px;
 }
