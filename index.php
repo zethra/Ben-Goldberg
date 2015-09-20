@@ -116,7 +116,7 @@
             <p class="section-header">Projects</p>
             <a href="scouting.php">
                 <figure class="figure-effect">
-                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
+                    <img src="assets/scouting-front.jpg"/>
 
                     <figcaption>
                         <h2>Scouting <span>App</span></h2>

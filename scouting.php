@@ -197,6 +197,19 @@
             </section>
         </div>
         <div class="col-md-5">
+            <a class="fancybox" href="assets/scouting-pic1.jpg">
+                <img src="assets/scouting-pic1.jpg" class="img-responsive inline-block sideImage"
+                    alt="A netbook running the scouting app at completion"/>
+            </a>
+            <a class="fancybox" href="assets/scouting-pic2.jpg">
+                <img src="assets/scouting-pic2.jpg" class="img-responsive inline-block sideImage"
+                     alt="The power supply the team built to power the net books and the switch off of a robot
+                     battery"/>
+            </a>
+            <a class="fancybox" href="assets/scouting-pic3.jpg">
+                <img src="assets/scouting-pic3.jpg" class="img-responsive inline-block sideImage"
+                     alt="Our team scouting at completion"/>
+            </a>
         </div>
     </div>
 </div>
