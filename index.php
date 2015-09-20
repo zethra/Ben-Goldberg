@@ -131,7 +131,6 @@
             </a>
             <a href="nametags.php">
                 <figure class="figure-effect">
-                    <!--                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>-->
                     <img src="assets/nametag-front.jpg">
                     <figcaption>
                         <h2>Name <span>Tag</span> <br/>Auto <span>Printing</span></h2>
@@ -148,7 +147,7 @@
             </a>
             <a href="navigator.php">
                 <figure class="figure-effect">
-                    <img src="http://www.crvdmedia.com/crvd/wp-content/uploads/2012/07/url-1.jpeg"/>
+                    <img src="assets/navigator-front.jpg"/>
                     <figcaption>
                         <h2>School <span>Navigator</span></h2>
 

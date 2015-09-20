@@ -49,7 +49,7 @@
                 </p>
 
                 <p class="text-left">
-                    This is a web site  I built for the 4H club I founded Robostorm (<a href="robostorm.php">Read
+                    This is a web site I built for the 4H club I founded, Robostorm (<a href="robostorm.php">Read
                         more about Robostorm here</a>).  This is the first real web site I made.
                 </p>
 
@@ -63,7 +63,7 @@
                 </p>
                 <ul class="text-left">
                     <li><p>I learned a lot about HTML and Web development</p></li>
-                    <li><p>I learned how some basic Apache configuration</p></li>
+                    <li><p>I learned how to do some basic Apache configuration</p></li>
                 </ul>
             </section>
             <section id="story">
@@ -73,16 +73,16 @@
                 </p>
 
                 <p class="text-left">
-                    This website was my club's third site.  The first one was a made through a Comcast's personal
-                    website service, and the second was made through webs.com.  During the second semester of the
+                    This website was my club's third site.  The first one was a made through Comcast's personal
+                    website service, and the second was made through webs.com.  During the second semester of my
                     freshman year of high school I was taking an HTML class and decided to make a new, better,
                     website form scratch for our club as the final project for the class.
                 </p>
 
                 <p class="text-left">
-                    This was the first real website I ever made so I was difficult to put together.  Getting the
+                    This was the first real website I had ever made so it was difficult to put together.  Getting the
                     layout to look right was quite tricky.  I also had to find a way to restrict access to certain
-                    parts of the site which was hard to find the right way to go about.  Eventually I settled on
+                    parts of the site.  It was hard to find the right way to go about.  Eventually I settled on
                     using Apache's built in security to put a directory of content behind a password.
                 </p>
             </section>

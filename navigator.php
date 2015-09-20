@@ -146,6 +146,12 @@
                 </p>
             </section>
         </div>
+        <div class="col-md-5">
+            <a class="fancybox" href="assets/navigator-pic1.gif">
+                <img src="assets/navigator-pic1.gif" class="img-responsive inline-block sideImage"
+                     alt="Dijkstra's algorithm"/>
+            </a>
+        </div>
     </div>
 </div>
 <?php require 'jsIncludes.php'; ?>
