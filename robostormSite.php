@@ -89,7 +89,8 @@
         </div>
         <div class="col-md-5">
             <a class="fancybox" href="assets/robostormSite-pic1.png">
-                <img src="assets/robostormSite-pic1.png" class="img-responsive inline-block sideImage"/>
+                <img src="assets/robostormSite-pic1.png" class="img-responsive inline-block sideImage"
+                    alt="The Robostorm web site home page"/>
             </a>
         </div>
     </div>
