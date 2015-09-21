@@ -46,10 +46,11 @@
                     and sell.
                 </p>
 
-                <p class="text-left"><a href="benspenssite/index.html" target="_blank">Click here to see the old Ben's Pens site</a></p>
+                <p class="text-left"><a href="benspenssite/index.html" target="_blank">Click here to see the old
+                        Ben's Pens site</a></p>
                 <p class="text-left"><a target="_blank"
                         href="http://www.nj.com/hunterdon-county-democrat/index.ssf/2013/08/opening_day_of_stangl_factory.html">
-                        I'm mentioned here in this article from NJ.com</a></p>
+                        I'm mentioned here in this article from NJ.com (I'm in pictures 12 and 22)</a></p>
             </section>
         </div>
         <div class="col-md-5">

@@ -104,7 +104,7 @@
                 </p>
 
                 <p class="text-left">
-                    There is also the WebIOPi program is a web server that allows the motors to be controlled via
+                    There is also the WebIOPi program that is a web server that allows the motors to be controlled via
                     javascript. A client that has the web page open can press html buttons on the page that cause the
                     robot to move.
                 </p>

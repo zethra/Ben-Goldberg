@@ -40,6 +40,8 @@
         <p class="text-left h4">Project worked on <span>Spring 2013</span></p>
 
         <p class="text-left h4">At age <span>15</span></p>
+
+        <p class="text-left h4">Project worked on for about <span>1-2 hours a day for about 4 weeks</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">

@@ -54,7 +54,7 @@
                     computer, mechanical design, programming, and wiring and soldering. These influences put me on a new
                     trajectory as a sophomore. The substance, sophistication, and complexity of the projects I took on
                     were at a new level. In the "Projects" section of this site, please read about some of the
-                    projects I have worked on win the club.
+                    projects I have worked on in the club.
                 </p>
 
                 <p>
@@ -65,7 +65,7 @@
                 </p>
 
                 <p>
-                    Looking back I am amazed at what Robostorm has become, and that it would not have existed, had I
+                    Looking back I am amazed at what Robostorm has become, and that it would not have existed, if I
                     just walked away from the news of no robotics in seventh grade. I feel that the influence and impact
                     of this experience on all of the club members and families has been significant. The club still
                     thrives. It has provided a place for technology-minded children across the county to find friends

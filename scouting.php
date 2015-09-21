@@ -47,9 +47,11 @@
         </div>
     </section>
     <section id="time">
-        <p class="text-left h4">Project worked on <span>Summer 2015</span></p>
+        <p class="text-left h4">Project worked on <span>Winter and Spring 2015</span></p>
 
         <p class="text-left h4">At age <span>17</span></p>
+
+        <p class="text-left h4">Project worked on for about <span>2-6 hours a day from January to April/span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
@@ -113,7 +115,7 @@
                     There is one Netbook that acts as the Scout Master which hosts the application. We have six other
                     Netbooks that act as data entry terminals. They are connected together via Ethernet cables and a
                     switch. The Netbooks are all powered by a robot battery.
-                    There is the Pit Master computer in the Pit which is displays relevant information to the drive crew
+                    There is the Pit Master computer in the Pit which displays relevant information to the drive crew
                     before each match. The Scout Master would output its scouting data onto a USB drive which would then
                     be brought to the Pit and then loaded on the Pit Master.
                 </p>
@@ -143,7 +145,7 @@
                 </p>
 
                 <p class="text-left">
-                    In an FRC match, six robots play at one time. Each of the six Netbook client users will be
+                    In an FRC match, six robots play at one time. Each of the six Netbook client users is
                     responsible for reporting on the game performance of one of the six robots. The way for each user to
                     select the robot to report on is through using the Tournament Schedule screen. The screen presented
                     to the user lists all the matches in the rows, and all the robots per match in six columns. The user

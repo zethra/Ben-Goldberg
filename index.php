@@ -90,7 +90,7 @@
                         <h2><span>Robostorm</span></h2>
 
                         <div>
-                            <p>My 4H robotics club that I founded</p>
+                            <p>My 4-H robotics club that I founded</p>
                         </div>
                     </figcaption>
                 </figure>
@@ -152,7 +152,7 @@
                         <h2>School <span>Navigator</span></h2>
 
                         <div>
-                            <p>A web app that give directions</p>
+                            <p>A web app that gives directions</p>
 
                             <p>around my high school</p>
                         </div>

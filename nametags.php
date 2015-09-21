@@ -51,6 +51,8 @@
         <p class="text-left h4">Project worked on <span>Summer 2015</span></p>
 
         <p class="text-left h4">At age <span>17</span></p>
+
+        <p class="text-left h4">Project worked on for about <span>2-4 hours a day for about 6 weeks</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
@@ -76,7 +78,7 @@
                 </p>
 
                 <p class="text-left">
-                    My 4-H Robotics Club exhibit this summer included a set of 3-D printers, with which we used to
+                    My 4-H Robotics Club's exhibit this summer included a set of 3-D printers, which we used to
                     custom-3D-print name tags for fair-goers. An application was needed for placing orders and for
                     automating the printing process.
                 </p>

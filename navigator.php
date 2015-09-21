@@ -44,11 +44,11 @@
         </div>
     </section>
     <section id="time">
-        <p class="text-left h4">Project worked on <span>Summer 2015</span></p>
+        <p class="text-left h4">Project worked on <span>Spring 2015</span></p>
 
         <p class="text-left h4">At age <span>17</span></p>
 
-        <p class="text-left h4">Project worked on for about <span>2-6 hours a day for about 4 weeks</span></p>
+        <p class="text-left h4">Project worked on for about <span>2-4 hours a day for about 4 weeks</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
@@ -92,7 +92,8 @@
                     it to an available Map Thread via shared memory. The Map Thread uses Dijkstra's algorithm and the
                     Map Data it has to find the shortest path between the two rooms provided. Then it generates written
                     directions in English and sends them back to the Client Handler Thread via shared memory. The
-                    Handler Thread then send the English directions back to the Socket client, at which point the Client
+                    Handler Thread then sends the English directions back to the Socket client, at which point the
+                    Client
                     Handler is terminated.
                 </p>
 
