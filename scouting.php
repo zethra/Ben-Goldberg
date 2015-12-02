@@ -51,7 +51,7 @@
 
         <p class="text-left h4">At age <span>17</span></p>
 
-        <p class="text-left h4">Project worked on for about <span>2-6 hours a day from January to April/span></p>
+        <p class="text-left h4">Project worked on for about <span>2-6 hours a day from January to April</span></p>
     </section>
     <div class="row">
         <div class="col-md-7">
