@@ -12,3 +12,4 @@
 <script type="text/javascript" src="/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 <script src="js/tags.js"></script>
 <script src="js/main.js"></script>
+<?php include_once("analyticstracking.php") ?>
