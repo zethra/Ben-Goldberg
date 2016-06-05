@@ -38,7 +38,7 @@
   <tr bgcolor="#4BB648">
     <td height="124" bgcolor="#4BB648">&nbsp;</td>
     <div id="header">
-    <td width="25%" align="center" bgcolor="#4BB648"><h1 class=head><a href="/" class=nav>Home</a></h1></td>
+    <td width="25%" align="center" bgcolor="#4BB648"><h1 class=head><a href="../" class=nav>Home</a></h1></td>
     <td width="25%" align="center" bgcolor="#4BB648">
     <center><ul id="MenuBar1" class="MenuBarHorizontal">
       <li><a class="MenuBarItemSubmenu" href="../info.php"><h1><u>Club_Info</u></h1><br></a>

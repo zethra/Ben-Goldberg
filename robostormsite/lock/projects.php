@@ -19,9 +19,9 @@
 	<a href="http://www.firstlegoleague.org/challenge/2011foodfactor" target="_blank" class="op">http://www.firstlegoleague.org/challenge/2011foodfactor</a></li></b></p>
 	<p><b><li>Mindstorms NXT projects - if you have completed the projects from the kit's CD, try these:  <a href="http://www.nxtprograms.com/index2.html" target="_blank" class="op">Projects for NXT 2.0</a></li></b></p>
 	<p><b><li>                          and how about these?  Run a project with some others from the club.  <a href="http://robotsquare.com/category/tutorials/building-tutorials/" target="_blank" class="op">Robot Square Tutorials</a></li></b></p>
-	<p><b><li>AquaBot 2015 (Mr. Hollabaugh). Project Info here: <a href="https://drive.google.com/a/robostorm.org/#folders/0B8y-177vpxVgY3JQUFU4WlRsWDQ" target="_blank" class="op">AquaBot Google Drive</a></li></b></p>
-	<p><b><li>Build a 3-D Printer (Tim, Logan, Andrew, Ben, Mike). Info here: <a href="https://drive.google.com/a/robostorm.org/#folders/0BzeP8zMgF9aoVXczMDdBTUtmbkE" target="_blank" class="op">3-D Printer Project Google Drive</a></li></b></p>
-	<p><b><li>Battle Bots(Danny, Logan).  Info here: <a href="https://drive.google.com/folderview?id=0ByungvbcS4DpMHBHbnZSZm8wYlU&usp=sharing" target="_blank" class="op">Battlebots 2014 WINTER Google Drive</a></li></b></p>	
+	<p><b><li>AquaBot 2015 (Mr. Hollabaugh). Project Info here: <a href="" class="op">AquaBot Google Drive</a></li></b></p>
+	<p><b><li>Build a 3-D Printer (Tim, Logan, Andrew, Ben, Mike). Info here: <a href=""class="op">3-D Printer Project Google Drive</a></li></b></p>
+	<p><b><li>Battle Bots(Danny, Logan).  Info here: <a href="" class="op">Battlebots 2014 WINTER Google Drive</a></li></b></p>
 	<p><b><li>Holiday Crafts Workshop - Make things to sell at the annual 4-H Holiday Crafts Sale.  This is a club fundraiser. (Ms. Tovi-Jones)</li></b></p>
 	<p><b><li>Take Apart - save any old items that would be cool to take apart (Mr. Rowe/Ms. Walker).</li></b></p>
 	<p><b><li>Radio Station Tour at WDVR (Mr. Hollabaugh).</li></b></p>
