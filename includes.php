@@ -1,3 +1,7 @@
+<?php
+header("X-Frame-Options: DENY");
+header("Content-Security-Policy: frame-ancestors 'none'", false);
+?>
 <meta charset="utf-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
