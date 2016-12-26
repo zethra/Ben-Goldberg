@@ -40,10 +40,10 @@
                     </p>
 
                     <p>
-                        <strong>I would call myself an outgoing, well-spoken geek.</strong> I intend to study Computer
-                        Science, possibly concentrating in cyber security or data analytics. I am applying to schools
-                        which I believe will provide a strong computer science curriculum, but which will also
-                        provide me exposure to computer engineering, entrepreneurship, and practical applications.
+                        <strong>I would call myself an outgoing, well-spoken geek.</strong> I am studying Computer
+                        Science at the Rochester Institute of Technology.  I intend to get my bachelor's degree and
+                        possibly a master's and PHD.  I worked at Magna-Power Electronics as a software developer
+                        during the summer of 2016.
                     </p>
 
                     <p>
